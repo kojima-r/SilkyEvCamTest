@@ -24,3 +24,8 @@ https://centuryarks.com/en/download/
 
 pythonを入れていればpython経由での利用が可能
 `src/`
+
+Ubuntu22.04にapt経由で入れていれば以下にpythonのサンプルが保存されいてる
+```
+/usr/share/metavision/sdk/core/python_samples/
+```
